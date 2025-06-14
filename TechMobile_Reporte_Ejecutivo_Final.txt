@@ -1,0 +1,52 @@
+
+================================================================================
+                    TECHMOBILE CORP - REPORTE EJECUTIVO FINAL
+                        ANÁLISIS ESTRATÉGICO DE VENTAS 5G
+================================================================================
+
+RESUMEN EJECUTIVO:
+• Dataset analizado: 200 registros (2019-2022)
+• Ventas totales: 6,355,142 unidades
+• Ingresos totales: $5,100,226,285.56
+• Participación 5G: 59.6%
+
+HALLAZGOS CLAVE:
+• Región líder: Asia-Pacific (42.2% mercado)
+• Crecimiento 5G: +70.8% (2019-2022)
+• Tasa éxito: 40.0%
+• ROI productos 5G: +138.9%
+
+MODELOS ESTADÍSTICOS:
+• Normal (ingresos): μ=$25,501,131, σ=$14,784,771
+• Poisson (demanda): λ=5.88
+• Binomial (éxito): n=200, p=0.400
+
+PROYECCIONES 2024-2025:
+• Crecimiento esperado: +15% anual
+• Adopción 5G 2025: ~95%
+• Ingresos 2024: $2,184,516,316
+
+RECOMENDACIONES ESTRATÉGICAS:
+1. Priorizar Middle East & Africa (mayor adopción 5G)
+2. Desarrollar North America (potencial crecimiento)
+3. Mantener portfolio 70% 5G, 30% tradicional
+4. Implementar cross-selling enfocado (Xiaomi/OnePlus)
+5. Sistema alertas Poisson para inventory management
+
+MÉTRICAS KPI:
+• Tasa éxito: ≥40%
+• Ingresos rango: $-3,477,021 - $54,479,284
+• Adopción 5G: Asia-Pacific ≥80%, LATAM ≥60%
+• Cross-selling: Meta 35%
+
+PRÓXIMOS PASOS:
+□ Redistribuir inventario por probabilidades regionales
+□ Implementar sistema alertas Poisson
+□ Capacitar equipo en cross-selling strategies
+□ Desarrollar pricing dinámico modelo normal
+□ Dashboard métricas tiempo real
+
+================================================================================
+                    TRABAJO PRÁCTICO COMPLETADO EXITOSAMENTE
+              TODOS LOS CONCEPTOS DE CIENCIA DE DATOS APLICADOS
+================================================================================

@@ -1,0 +1,7 @@
+TRABAJO PRÁCTICO FINAL - RESULTADOS DEL ANÁLISIS
+==================================================
+
+Probabilidad de productos 5G: 0.7337
+Parámetros distribución normal: μ=30370064.95, σ=18294767.92
+Parámetro Poisson: λ=32.77
+Parámetros binomial: n=768, p=0.4974
