@@ -1,4 +1,4 @@
-Año,Trimestre,Modelo de Producto,Capacidad 5G,Unidades Vendidas,Ingresos ($),Cuota de Mercado (%),Cobertura Regional 5G (%),Suscriptores 5G (millones),Velocidad Promedio 5G (Mbps),Preferencia por 5G (%),Región
+Año,Trimestre,Modelo de Producto,Capacidad_5G,Unidades_Vendidas,Ingresos ($),Cuota_Mercado (%),Cobertura Regional 5G (%),Suscriptores 5G (millones),Velocidad Promedio 5G (Mbps),Preferencia por 5G (%),Region
 2019,Q1,Galaxy S10,No,26396,4212951.048,1.04,57.36,39.55,293.1,55.87,Asia-Pacific
 2019,Q1,Galaxy Note10,No,25671,7240265.603999999,2.82,85.8,42.58,67.46,37.26,Latin America
 2019,Q1,Galaxy S20,No,16573,25608331.51,-0.03,47.02,3.78,77.25,84.66,Middle East & Africa
